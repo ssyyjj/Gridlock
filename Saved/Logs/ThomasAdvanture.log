@@ -1929,3 +1929,291 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.28-18.32.08:211][845]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue293BCB9C455DB218015CCC8618E5D69D.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
 [2021.11.28-18.32.08:225][845]AssetCheck: New page: Asset Save: ManDialogue
 [2021.11.28-18.32.08:225][845]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.32.57:500][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.11.28-18.32.57:609][785]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map24B568C441A387F08D48B6983940A607.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.28-18.32.57:638][785]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.28-18.32.57:638][785]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.28-18.33.13:258][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'NPCSpeak_C'"BehaviorTreeGraphNode_Task_26.NPCSpeak_C_11"')'
+[2021.11.28-18.33.13:258][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'Exit_C'"BehaviorTreeGraphNode_Task_27.Exit_C_2"')'
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'NPCSpeak_C'"BehaviorTreeGraphNode_Task_18.NPCSpeak_C_12"')'
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_80:BehaviorTreeGraphNode_Task_7 or BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_81:BehaviorTreeGraphNode_Task_7
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_80:BehaviorTreeGraphNode_Task_7 or BehaviorTreeGraphNode_Task /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Task_7
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'PlayerReply_C'"BehaviorTreeGraphNode_Task_7.PlayerReply_C_7"')'
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Task /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Task_9 or BehaviorTreeGraphNode_Task /Game/DialogueSystem/Woman/WomanDialogue.WomanDialogue:Behavior Tree.BehaviorTreeGraphNode_Task_9
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Task /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Task_9 or BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_80:BehaviorTreeGraphNode_Task_9
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Task /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Task_9 or BehaviorTreeGraphNode_Task /Engine/Transient.EdGraph_81:BehaviorTreeGraphNode_Task_9
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'NPCSpeak_C'"BehaviorTreeGraphNode_Task_9.NPCSpeak_C_13"')'
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildTask: unresolved reference to 'PlayerReply_C'"BehaviorTreeGraphNode_Task_19.PlayerReply_C_8"')'
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Composite /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Composite_1 or BehaviorTreeGraphNode_Composite /Game/DialogueSystem/Woman/WomanDialogue.WomanDialogue:Behavior Tree.BehaviorTreeGraphNode_Composite_1
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Composite /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Composite_1 or BehaviorTreeGraphNode_Composite /Engine/Transient.EdGraph_80:BehaviorTreeGraphNode_Composite_1
+[2021.11.28-18.33.13:260][656]LogUObjectHash: Warning: Ambiguous path search, could be BehaviorTreeGraphNode_Composite /Game/DialogueSystem/Man/ManDialogue.ManDialogue:Behavior Tree.BehaviorTreeGraphNode_Composite_1 or BehaviorTreeGraphNode_Composite /Engine/Transient.EdGraph_81:BehaviorTreeGraphNode_Composite_1
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_1.BTComposite_Selector_12"')'
+[2021.11.28-18.33.13:260][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_18.BTComposite_Sequence_11"''
+[2021.11.28-18.33.13:261][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_18.BTComposite_Sequence_11"''
+[2021.11.28-18.33.13:261][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_19.BTComposite_Sequence_12"''
+[2021.11.28-18.33.13:261][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_19.BTComposite_Sequence_12"''
+[2021.11.28-18.33.13:261][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_19.BTComposite_Sequence_12"''
+[2021.11.28-18.33.13:261][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_19.BTComposite_Sequence_12"''
+[2021.11.28-18.33.13:262][656]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_19.BTComposite_Sequence_12"''
+[2021.11.28-18.36.36:417][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_5.BTComposite_Selector_12"''
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_5.BTComposite_Selector_12"''
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_11.BTComposite_Sequence_13"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_26.BTDecorator_Blackboard_13"'))'
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_26.BTDecorator_Blackboard_13"'))'
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_7.BTComposite_Sequence_14"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_27.BTDecorator_Blackboard_8"'))'
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_27.BTDecorator_Blackboard_8"'))'
+[2021.11.28-18.36.36:418][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_5.BTComposite_Selector_12"''
+[2021.11.28-18.36.36:419][ 83]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_5.BTComposite_Selector_12"''
+[2021.11.28-18.37.59:811][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.37.59:843][ 12]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueFBB36BB948B73B6E9085559761FB8C4C.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.37.59:858][ 12]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.37.59:858][ 12]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.39.37:249][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.39.37:280][798]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueC678A4BD4773034F17A52582BA69B30B.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.39.37:301][798]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.39.37:301][798]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.39.53:342][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.39.53:368][469]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue05BC5C484EC718A2D131D0BD97E0DB8C.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.39.53:384][469]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.39.53:385][469]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.40.08:908][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.40.08:933][156]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueDE05D1D54771C90C7211C4B10C1A7A78.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.40.08:948][156]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.40.08:948][156]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.43.56:880][196]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.11.28-18.43.56:886][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MapsForGame/Garrett/CarScene_BlockOut7_Map' took 0.097
+[2021.11.28-18.43.56:887][196]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DialogueSystem/Man/ManDialogue] ([1] browsable assets)...
+[2021.11.28-18.43.56:887][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/DialogueSystem/Man/ManDialogue]
+[2021.11.28-18.43.56:930][196]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue_Auto1FE2F56BE47ED3F0C13A1D3B12F0B93B2.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Autosaves/Game/DialogueSystem/Man/ManDialogue_Auto1.uasset'
+[2021.11.28-18.43.56:935][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Interactions/Glove_Button] ([1] browsable assets)...
+[2021.11.28-18.43.56:947][196]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Interactions/Glove_Button.Glove_Button]
+[2021.11.28-18.43.56:947][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Interactions/Glove_Button]
+[2021.11.28-18.43.56:964][196]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Glove_Button_Auto1F2AD56B846FB2165F56638BBCF9EC9F1.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Autosaves/Game/Audio/Interactions/Glove_Button_Auto1.uasset'
+[2021.11.28-18.43.56:966][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Interactions/car_window_up] ([1] browsable assets)...
+[2021.11.28-18.43.56:971][196]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Interactions/car_window_up.car_window_up]
+[2021.11.28-18.43.56:971][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Interactions/car_window_up]
+[2021.11.28-18.43.56:981][196]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/car_window_up_Auto119B32DE646DF2B6DA20428BA25561936.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Autosaves/Game/Audio/Interactions/car_window_up_Auto1.uasset'
+[2021.11.28-18.43.56:981][196]LogFileHelpers: Auto-saving content packages took 0.095
+[2021.11.28-18.47.48:363][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.47.48:394][191]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueF2A52B6942A1752C8B4A7AA47032124C.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.47.48:410][191]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.47.48:410][191]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.48.24:838][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.48.24:870][ 21]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueE13A7AC744C2C948F9AD92A013F88CF8.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.48.24:891][ 21]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.48.24:891][ 21]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.51.21:525][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-18.51.21:552][414]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue9EA857924B91A0233759A285B29C52C2.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-18.51.21:566][414]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-18.51.21:566][414]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_12"''
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_12"''
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_23.BTComposite_Sequence_13"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_4.BTDecorator_Blackboard_2"'))'
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_4.BTDecorator_Blackboard_2"'))'
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_24.BTComposite_Sequence_14"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_5.BTDecorator_Blackboard_3"'))'
+[2021.11.28-18.54.36:977][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_5.BTDecorator_Blackboard_3"'))'
+[2021.11.28-18.54.36:978][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_12"''
+[2021.11.28-18.54.36:978][867]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_12"''
+[2021.11.28-19.03.55:545][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_3"''
+[2021.11.28-19.03.55:546][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_3"''
+[2021.11.28-19.03.55:546][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_23.BTComposite_Sequence_16"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_37.BTDecorator_Blackboard_2"'))'
+[2021.11.28-19.03.55:546][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_37.BTDecorator_Blackboard_2"'))'
+[2021.11.28-19.03.55:546][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:ChildComposite: unresolved reference to 'BTComposite_Sequence'"BehaviorTreeGraphNode_Composite_33.BTComposite_Sequence_17"',Decorators=(BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_39.BTDecorator_Blackboard_10"'))'
+[2021.11.28-19.03.55:547][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTCompositeChild:Decorators.Decorators: unresolved reference to 'BTDecorator_Blackboard'"BehaviorTreeGraphNode_Decorator_39.BTDecorator_Blackboard_10"'))'
+[2021.11.28-19.03.55:547][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_3"''
+[2021.11.28-19.03.55:547][468]LogProperty: Warning: ObjectProperty /Script/AIModule.BTNode:ParentNode: unresolved reference to 'BTComposite_Selector'"BehaviorTreeGraphNode_Composite_26.BTComposite_Selector_3"''
+[2021.11.28-19.07.32:302][654]Cmd: TRANSACTION UNDO
+[2021.11.28-19.07.32:302][654]LogEditorTransaction: Undo Paste clipboard contents
+[2021.11.28-19.09.08:522][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.28-19.09.08:524][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MapsForGame/Garrett/CarScene_BlockOut7_Map' took 0.047
+[2021.11.28-19.09.08:524][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DialogueSystem/Man/ManDialogue] ([1] browsable assets)...
+[2021.11.28-19.09.08:524][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/DialogueSystem/Man/ManDialogue]
+[2021.11.28-19.09.08:560][408]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue_Auto26328A2E24F04FF373B8CDC8675B36B65.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Autosaves/Game/DialogueSystem/Man/ManDialogue_Auto2.uasset'
+[2021.11.28-19.09.08:561][408]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.11.28-19.14.01:726][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.14.01:763][468]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue72A7DEB84206DE01D74C8E8EC9EB8FC9.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.14.01:784][468]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.14.01:784][468]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.14.20:066][413]Cmd: TRANSACTION UNDO
+[2021.11.28-19.14.20:066][413]LogEditorTransaction: Undo Delete current selection
+[2021.11.28-19.15.02:055][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.15.02:092][448]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue81789AD94D9E99223A4B8985545AE31A.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.15.02:109][448]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.15.02:109][448]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.15.07:800][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.11.28-19.15.07:927][734]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map167B8C73479B7C179E8FB3BB6EB39983.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.28-19.15.07:971][734]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.28-19.15.07:971][734]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.28-19.15.11:579][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.28-19.15.11:602][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.28-19.15.11:602][887]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 3:15:11 AM)
+[2021.11.28-19.15.11:602][887]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.28-19.15.11:633][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030453s)
+[2021.11.28-19.15.11:634][887]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.28-19.15.11:635][887]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2021.11.28-19.15.11:635][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.032387s)
+[2021.11.28-19.15.11:672][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.11.28-19.15.11:674][887]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.28-19.15.11:674][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.28-19.15.11:674][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.28-19.15.11:675][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.28-19.15.11:675][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.28-19.15.11:675][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.28-19.15.11:675][887]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.28-19.15.11:679][887]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.28-19.15.11:679][887]LogAudioMixer: Display: 1: FrontRight
+[2021.11.28-19.15.11:688][887]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.28-19.15.11:689][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.28-19.15.11:689][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.28-19.15.11:689][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.28-19.15.11:689][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.28-19.15.11:689][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.28-19.15.11:689][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.28-19.15.11:691][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.28-19.15.11:691][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.28-19.15.11:691][887]LogInit: FAudioDevice initialized.
+[2021.11.28-19.15.11:691][887]LogAudio: Display: Audio Device (ID: 16) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.28-19.15.11:716][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.28-19.15.11:716][887]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.28-19.15.11:731][887]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-11.15.11
+[2021.11.28-19.15.11:732][887]LogWorld: Bringing up level for play took: 0.015725
+[2021.11.28-19.15.11:732][887]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.11.28-19.15.11:746][887]PIE: Server logged in
+[2021.11.28-19.15.11:751][887]PIE: Play in editor total start time 0.161 seconds.
+[2021.11.28-19.15.18:900][298]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.28-19.15.18:900][298]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.28-19.15.18:900][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.28-19.16.03:298][923]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.28-19.16.03:298][923]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.28-19.16.36:170][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.28-19.16.36:170][860]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.28-19.16.36:171][860]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.28-19.16.36:175][860]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.28-19.16.36:179][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.28-19.16.36:205][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.28-19.16.36:268][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.28-19.16.36:321][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.28-19.16.36:321][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.28-19.16.36:323][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.28-19.16.36:333][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.28-19.16.36:410][861]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.11.28-19.16.38:359][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.28-19.16.38:470][936]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_MapACAE731B4960EA68EB984DB89B08D943.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.28-19.16.38:499][936]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.28-19.16.38:499][936]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.28-19.22.55:361][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.22.55:399][643]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue3254397B4EF2912199A3B4862604637B.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.22.55:416][643]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.22.55:416][643]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.23.01:537][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.23.01:574][903]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueC6BD214541507EA462AB74BF0005639F.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.23.01:592][903]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.23.01:592][903]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.23.15:271][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.23.15:310][473]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueBDDAFCA74280698AD2878CB5BD29B68C.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.23.15:325][473]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.23.15:325][473]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.23.49:158][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.23.49:205][996]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueF0FB441E46F8C496FEC755AA7B92C958.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.23.49:222][996]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.23.49:222][996]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.26.17:098][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.26.17:143][937]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueE6E5F7E34EB71648C4A2959D1F62DABC.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.26.17:159][937]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.26.17:159][937]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.27.02:212][186]LogSlate: Window 'Message Log' being destroyed
+[2021.11.28-19.27.02:232][186]LogSlate: Window 'Message Log' being destroyed
+[2021.11.28-19.29.19:959][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.29.20:000][735]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue20052476467EB980D92F64A3DCEA5660.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.29.20:015][735]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.29.20:015][735]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.30.24:856][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.30.24:899][414]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogueBDEE1A7D4486D713E36933A4731D422F.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.30.24:915][414]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.30.24:915][414]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.31.13:156][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.31.13:206][ 35]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue1B8DCFF64FC39FAE94A7B89C9C54A21B.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.31.13:220][ 35]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.31.13:220][ 35]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.31.24:254][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.31.24:308][532]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue65BCC0F1439A4B03C2EDA49D6FAD3AC7.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.31.24:322][532]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.31.24:322][532]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
+[2021.11.28-19.31.27:791][649]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.28-19.31.27:813][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.28-19.31.27:813][649]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 3:31:27 AM)
+[2021.11.28-19.31.27:813][649]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.28-19.31.27:847][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034173s)
+[2021.11.28-19.31.27:848][649]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.28-19.31.27:849][649]LogPlayLevel: PIE: World Init took: (0.001834s)
+[2021.11.28-19.31.27:849][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.036224s)
+[2021.11.28-19.31.27:911][649]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2021.11.28-19.31.27:917][649]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.28-19.31.27:917][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.28-19.31.27:917][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.28-19.31.27:917][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.28-19.31.27:917][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.28-19.31.27:917][649]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.28-19.31.27:922][649]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.28-19.31.27:922][649]LogAudioMixer: Display: 1: FrontRight
+[2021.11.28-19.31.27:937][649]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.28-19.31.27:937][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.28-19.31.27:938][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.28-19.31.27:938][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.28-19.31.27:938][649]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.28-19.31.27:939][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.28-19.31.27:939][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.28-19.31.27:941][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.28-19.31.27:941][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.28-19.31.27:941][649]LogInit: FAudioDevice initialized.
+[2021.11.28-19.31.27:941][649]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.28-19.31.27:964][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.28-19.31.27:964][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.28-19.31.27:984][649]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-11.31.27
+[2021.11.28-19.31.27:989][649]LogWorld: Bringing up level for play took: 0.022540
+[2021.11.28-19.31.27:989][649]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.11.28-19.31.28:006][649]PIE: Server logged in
+[2021.11.28-19.31.28:013][649]PIE: Play in editor total start time 0.206 seconds.
+[2021.11.28-19.31.35:596][944]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.28-19.31.35:596][944]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.28-19.31.35:596][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.28-19.32.02:874][ 70]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.28-19.32.02:874][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.28-19.32.06:921][250]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.28-19.32.06:921][250]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.28-19.32.06:921][250]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.28-19.32.40:614][501]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.28-19.32.40:614][501]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.28-19.32.42:590][569]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.28-19.32.42:590][569]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.28-19.32.42:590][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.28-19.32.59:362][285]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.28-19.32.59:362][285]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.28-19.33.02:489][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.28-19.33.02:489][427]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.28-19.33.02:490][427]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.28-19.33.02:494][427]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.28-19.33.02:496][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.28-19.33.02:533][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.28-19.33.02:594][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.28-19.33.02:648][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.28-19.33.02:648][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.28-19.33.02:649][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.28-19.33.02:658][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.28-19.33.02:711][428]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.11.28-19.35.04:603][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Man/ManDialogue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset" SILENT=true
+[2021.11.28-19.35.04:644][931]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/ManDialogue5B38CDA5472AFE3F3A27B0953092E570.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Man/ManDialogue.uasset'
+[2021.11.28-19.35.04:657][931]AssetCheck: New page: Asset Save: ManDialogue
+[2021.11.28-19.35.04:657][931]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Man/ManDialogue.ManDialogue
