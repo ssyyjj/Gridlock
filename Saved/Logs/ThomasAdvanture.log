@@ -2962,3 +2962,720 @@ Script Stack (0 frames):
 [2021.11.29-05.58.33:139][911]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/WomanDialogue47CBC952483AD5A420A0B9840A2FB5F7.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Woman/WomanDialogue.uasset'
 [2021.11.29-05.58.33:161][911]AssetCheck: New page: Asset Save: WomanDialogue
 [2021.11.29-05.58.33:161][911]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Woman/WomanDialogue.WomanDialogue
+[2021.11.29-06.01.18:549][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\garre\Downloads\drive-download-20211129T060042Z-001\OldMan_ending2.png)
+[2021.11.29-06.01.18:647][277]LogTexture: Display: Building textures: OldMan_ending2 (OODLE_AutoDXT, 2388X1668)
+[2021.11.29-06.01.18:740][277]LogTextureFormatOodle: Display: non-RDO encode 2388 x 1668 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.29-06.01.18:779][277]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\garre\Downloads\drive-download-20211129T060042Z-001\OldMan_ending3.png)
+[2021.11.29-06.01.18:896][277]LogTexture: Display: Building textures: OldMan_ending3 (OODLE_AutoDXT, 2388X1668)
+[2021.11.29-06.01.19:041][277]LogTextureFormatOodle: Display: non-RDO encode 2388 x 1668 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.29-06.01.23:461][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.29-06.01.23:572][456]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map059A7DC4497E4790C5266F995C4D9DF6.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.29-06.01.23:593][456]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.29-06.01.23:593][456]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.29-06.02.40:797][521]Cmd: TRANSACTION UNDO
+[2021.11.29-06.02.40:797][521]LogEditorTransaction: Undo Remove Widget
+[2021.11.29-06.03.05:796][711]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.03.05:981][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.11.29-06.03.06:641][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.03.06:685][738]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen5A98E9C44694D877FD600EA583A69DA5.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.03.06:703][738]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.03.06:703][738]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.03.55:977][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.03.56:017][301]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen9069469A41C53228AFD90CA8C0896361.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.03.56:034][301]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.03.56:034][301]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.03.56:363][318]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.03.56:471][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.11.29-06.04.24:596][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.04.24:629][726]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen48D03A2D4418809C86A6AE94FC06F46E.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.04.24:647][726]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.04.24:647][726]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.04.25:161][752]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.04.25:272][752]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.11.29-06.04.25:800][773]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.04.25:876][773]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.11.29-06.04.26:405][794]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.04.26:482][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.11.29-06.04.29:032][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.04.29:069][910]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen300F7DD14B7804E15C84B89B747646BD.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.04.29:088][910]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.04.29:088][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.05.17:354][362]LogSlate: Took 0.005189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.29-06.05.39:504][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.05.39:531][569]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreenF4BC8DE74CF2619B6CAAB6BD00A38363.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.05.39:545][569]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.05.39:545][569]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.05.39:960][592]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.05.40:063][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.11.29-06.05.52:593][167]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/DialogueSystem/Dialog.Dialog
+[2021.11.29-06.06.06:479][828]BlueprintLog: New page: Compile Sue
+[2021.11.29-06.06.06:583][828]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.11.29-06.06.06:905][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.06.06:915][842]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/SueB95701D84AE6AFDFF1A01F802E7FBA64.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.06.06:933][842]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.06.06:933][842]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.06.08:775][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.06.08:785][925]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/SueCBF345294627C47F5D634BAF3F104380.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.06.08:805][925]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.06.08:805][925]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.06.10:049][987]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.06.10:049][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.06.11:926][ 60]BlueprintLog: New page: Compile Remorse
+[2021.11.29-06.06.12:033][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.11.29-06.06.12:412][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Remorse" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Remorse.uasset" SILENT=true
+[2021.11.29-06.06.12:421][ 77]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/RemorseE966601E4BCC366E3C02C8A9C5239958.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Remorse.uasset'
+[2021.11.29-06.06.12:441][ 77]AssetCheck: New page: Asset Save: Remorse
+[2021.11.29-06.06.12:441][ 77]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Remorse.Remorse
+[2021.11.29-06.06.14:702][190]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.06.14:702][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.07.09:663][  0]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.07.09:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.11.29-06.07.10:189][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.07.10:221][ 20]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen10906EB745CD26674306D2AA15AD15AF.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.07.10:237][ 20]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.07.10:238][ 20]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.07.11:061][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.07.11:092][ 61]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen2A86C41B49AB8CB125E84789DC441F91.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.07.11:107][ 61]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.07.11:107][ 61]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.08.04:947][306]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\garre\Downloads\thomas.PNG)
+[2021.11.29-06.08.05:015][306]LogTexture: Display: Building textures: thomas (OODLE_AutoDXT, 2048X2048)
+[2021.11.29-06.08.05:150][306]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.29-06.08.05:150][306]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.29-06.08.11:551][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.08.11:576][451]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen08C481CD449F0DFEAAEC2F803496EAB9.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.08.11:590][451]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.08.11:590][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.08.12:231][486]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.08.12:316][486]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.11.29-06.08.48:270][446]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.48:270][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.49:880][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.29-06.08.49:880][499]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.49:880][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.50:919][547]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.29-06.08.50:919][547]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.50:919][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.52:045][593]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.52:045][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.52:059][593]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.52:059][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.53:216][636]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.53:216][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.53:230][636]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.53:230][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.54:168][680]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.29-06.08.54:169][680]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.54:169][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.55:640][751]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.55:640][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.55:651][751]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.55:651][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.56:536][792]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.56:536][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.08.56:555][792]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.08.56:555][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.09.01:850][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Date.Date
+[2021.11.29-06.09.03:713][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Date" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset" SILENT=true
+[2021.11.29-06.09.03:720][164]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Date7593803E4A2CD4F676BCBE9A7A0CC2FE.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset'
+[2021.11.29-06.09.03:734][164]AssetCheck: New page: Asset Save: Date
+[2021.11.29-06.09.03:734][164]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Date.Date
+[2021.11.29-06.09.14:050][777]BlueprintLog: New page: Compile Date
+[2021.11.29-06.09.14:220][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.11.29-06.09.17:439][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Date" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset" SILENT=true
+[2021.11.29-06.09.17:446][951]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/DateE6FB8F714025355F1B2162AB4B42DE0B.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset'
+[2021.11.29-06.09.17:461][951]AssetCheck: New page: Asset Save: Date
+[2021.11.29-06.09.17:461][951]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Date.Date
+[2021.11.29-06.09.18:426][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/GetToWork.GetToWork
+[2021.11.29-06.09.42:518][416]BlueprintLog: New page: Compile GetToWork
+[2021.11.29-06.09.42:605][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.11.29-06.09.42:986][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/GetToWork" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/GetToWork.uasset" SILENT=true
+[2021.11.29-06.09.42:994][437]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/GetToWorkDF1B9D9C4685AB145868A68A86769E45.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/GetToWork.uasset'
+[2021.11.29-06.09.43:007][437]AssetCheck: New page: Asset Save: GetToWork
+[2021.11.29-06.09.43:007][437]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/GetToWork.GetToWork
+[2021.11.29-06.09.45:856][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Investment.Investment
+[2021.11.29-06.09.47:446][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Investment" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Investment.uasset" SILENT=true
+[2021.11.29-06.09.47:459][670]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/InvestmentD42ABDF34588B2DC259B0185F4690B23.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Investment.uasset'
+[2021.11.29-06.09.47:471][670]AssetCheck: New page: Asset Save: Investment
+[2021.11.29-06.09.47:471][670]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Investment.Investment
+[2021.11.29-06.09.47:816][691]BlueprintLog: New page: Compile Investment
+[2021.11.29-06.09.47:859][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.29-06.09.58:670][320]BlueprintLog: New page: Compile Investment
+[2021.11.29-06.09.58:720][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.29-06.09.59:130][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Investment" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Investment.uasset" SILENT=true
+[2021.11.29-06.09.59:146][341]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/InvestmentFBAFADD741BE99EAB82B0E9FB86F1D4B.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Investment.uasset'
+[2021.11.29-06.09.59:162][341]AssetCheck: New page: Asset Save: Investment
+[2021.11.29-06.09.59:162][341]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Investment.Investment
+[2021.11.29-06.10.00:534][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Job.Job
+[2021.11.29-06.10.01:917][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Job" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Job.uasset" SILENT=true
+[2021.11.29-06.10.01:929][477]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/JobE47BEF5F4923D7A352FA7B9AE2E27933.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Job.uasset'
+[2021.11.29-06.10.01:946][477]AssetCheck: New page: Asset Save: Job
+[2021.11.29-06.10.01:946][477]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Job.Job
+[2021.11.29-06.10.02:243][495]BlueprintLog: New page: Compile Job
+[2021.11.29-06.10.02:292][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.29-06.10.10:393][877]BlueprintLog: New page: Compile Job
+[2021.11.29-06.10.10:443][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.29-06.10.10:777][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Job" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Job.uasset" SILENT=true
+[2021.11.29-06.10.10:789][895]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Job009C640F427F756A5C45399F075F70F2.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Job.uasset'
+[2021.11.29-06.10.10:801][895]AssetCheck: New page: Asset Save: Job
+[2021.11.29-06.10.10:801][895]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Job.Job
+[2021.11.29-06.10.12:549][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Miss.Miss
+[2021.11.29-06.10.14:158][ 64]BlueprintLog: New page: Compile Miss
+[2021.11.29-06.10.14:210][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.29-06.10.14:714][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Miss" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset" SILENT=true
+[2021.11.29-06.10.14:721][ 92]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/MissD40F781546C42F567EF917B07462346F.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset'
+[2021.11.29-06.10.14:734][ 92]AssetCheck: New page: Asset Save: Miss
+[2021.11.29-06.10.14:734][ 92]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Miss.Miss
+[2021.11.29-06.10.19:412][365]BlueprintLog: New page: Compile Miss
+[2021.11.29-06.10.19:467][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.29-06.10.19:857][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Miss" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset" SILENT=true
+[2021.11.29-06.10.19:865][386]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Miss3A68C8BD4342F2C2253CD5864CC4EE8A.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset'
+[2021.11.29-06.10.19:878][386]AssetCheck: New page: Asset Save: Miss
+[2021.11.29-06.10.19:878][386]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Miss.Miss
+[2021.11.29-06.10.21:370][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Movie.Movie
+[2021.11.29-06.10.22:954][549]BlueprintLog: New page: Compile Movie
+[2021.11.29-06.10.23:008][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.29-06.10.24:104][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Movie" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset" SILENT=true
+[2021.11.29-06.10.24:111][612]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Movie464656B140B165F8A8868FA8CADA9496.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset'
+[2021.11.29-06.10.24:125][612]AssetCheck: New page: Asset Save: Movie
+[2021.11.29-06.10.24:125][612]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Movie.Movie
+[2021.11.29-06.10.34:690][233]BlueprintLog: New page: Compile Movie
+[2021.11.29-06.10.34:756][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.29-06.10.35:326][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Movie" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset" SILENT=true
+[2021.11.29-06.10.35:340][265]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Movie1A780BE14B020F74D5845096726214A9.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset'
+[2021.11.29-06.10.35:354][265]AssetCheck: New page: Asset Save: Movie
+[2021.11.29-06.10.35:354][265]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Movie.Movie
+[2021.11.29-06.10.50:850][172]BlueprintLog: New page: Compile Movie
+[2021.11.29-06.10.50:915][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.11.29-06.10.51:732][220]BlueprintLog: New page: Compile Movie
+[2021.11.29-06.10.51:788][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.11.29-06.10.52:155][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Movie" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset" SILENT=true
+[2021.11.29-06.10.52:164][240]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Movie5441E7474ED9DA8709FA98A349922F6E.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Movie.uasset'
+[2021.11.29-06.10.52:180][240]AssetCheck: New page: Asset Save: Movie
+[2021.11.29-06.10.52:180][240]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Movie.Movie
+[2021.11.29-06.11.04:609][977]BlueprintLog: New page: Compile Miss
+[2021.11.29-06.11.04:664][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.11.29-06.11.04:994][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Miss" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset" SILENT=true
+[2021.11.29-06.11.05:000][994]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Miss2C104683417AD37395B207860983A91E.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Miss.uasset'
+[2021.11.29-06.11.05:014][994]AssetCheck: New page: Asset Save: Miss
+[2021.11.29-06.11.05:014][994]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Miss.Miss
+[2021.11.29-06.11.53:975][834]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/A_Flower.A_Flower
+[2021.11.29-06.12.04:764][421]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/Wintc_Flower.Wintc_Flower
+[2021.11.29-06.12.10:755][750]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/W_Flower.W_Flower
+[2021.11.29-06.12.23:301][466]BlueprintLog: New page: Compile Date
+[2021.11.29-06.12.23:369][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.29-06.12.23:741][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Date" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset" SILENT=true
+[2021.11.29-06.12.23:749][485]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Date352DA21F404C2F16059036BA8464C478.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset'
+[2021.11.29-06.12.23:768][485]AssetCheck: New page: Asset Save: Date
+[2021.11.29-06.12.23:768][485]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Date.Date
+[2021.11.29-06.12.24:570][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Date" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset" SILENT=true
+[2021.11.29-06.12.24:576][531]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Date95DAA50A4A8D1BA0249073B2647C4256.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Date.uasset'
+[2021.11.29-06.12.24:589][531]AssetCheck: New page: Asset Save: Date
+[2021.11.29-06.12.24:589][531]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Date.Date
+[2021.11.29-06.12.44:984][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Remorse.Remorse
+[2021.11.29-06.12.51:178][ 57]BlueprintLog: New page: Compile Remorse
+[2021.11.29-06.12.51:262][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.29-06.12.51:642][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Remorse" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Remorse.uasset" SILENT=true
+[2021.11.29-06.12.51:648][ 77]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Remorse428541EF41E1703D6E3977AF47B6F886.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Remorse.uasset'
+[2021.11.29-06.12.51:662][ 77]AssetCheck: New page: Asset Save: Remorse
+[2021.11.29-06.12.51:662][ 77]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Remorse.Remorse
+[2021.11.29-06.12.52:810][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.12.57:124][334]BlueprintLog: New page: Compile Sue
+[2021.11.29-06.12.57:195][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.29-06.12.57:533][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.12.57:540][352]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/SueBA39CD594B1C9A83825A06900CC1EAEA.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.12.57:555][352]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.12.57:555][352]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.13.02:826][667]BlueprintLog: New page: Compile Sue
+[2021.11.29-06.13.02:902][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.29-06.13.03:532][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.13.03:538][702]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/SueE0059C774A5113CCB301C4ACBF6D9B0E.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.13.03:551][702]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.13.03:551][702]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.13.05:165][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.11.29-06.13.05:277][794]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map5D6F42C64B8478721DEE45AC50924011.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.29-06.13.05:297][794]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.29-06.13.05:297][794]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.29-06.13.09:640][ 20]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.29-06.13.09:667][ 20]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.13.09:668][ 20]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 2:13:09 PM)
+[2021.11.29-06.13.09:674][ 20]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.13.09:732][ 20]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057332s)
+[2021.11.29-06.13.09:738][ 20]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.13.09:743][ 20]LogPlayLevel: PIE: World Init took: (0.011309s)
+[2021.11.29-06.13.09:743][ 20]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.069148s)
+[2021.11.29-06.13.09:790][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.11.29-06.13.09:795][ 20]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.13.09:798][ 20]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.13.09:799][ 20]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.13.09:802][ 20]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.29-06.13.09:802][ 20]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.29-06.13.09:802][ 20]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.29-06.13.09:802][ 20]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.13.09:808][ 20]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.13.09:808][ 20]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.13.09:825][ 20]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.29-06.13.09:827][ 20]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.29-06.13.09:827][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.29-06.13.09:828][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.29-06.13.09:828][ 20]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.29-06.13.09:828][ 20]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.29-06.13.09:829][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.29-06.13.09:830][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.29-06.13.09:830][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.29-06.13.09:830][ 20]LogInit: FAudioDevice initialized.
+[2021.11.29-06.13.09:831][ 20]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.13.09:863][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.13.09:865][ 20]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.13.09:913][ 20]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.13.09
+[2021.11.29-06.13.09:917][ 20]LogWorld: Bringing up level for play took: 0.051178
+[2021.11.29-06.13.09:925][ 20]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2021.11.29-06.13.09:967][ 20]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.09:967][ 20]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.09:967][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.29-06.13.09:979][ 20]PIE: Server logged in
+[2021.11.29-06.13.09:981][ 20]PIE: Play in editor total start time 0.329 seconds.
+[2021.11.29-06.13.11:032][ 72]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.13.11:032][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.13.15:745][354]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.15:745][354]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.15:745][354]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.13.22:288][742]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.22:307][743]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.13.22:307][743]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.13.27:318][ 43]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.13.27:319][ 43]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.13.27:319][ 43]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.13.27:322][ 43]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.27:326][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.27:415][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.13.27:422][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.11.29-06.13.27:424][ 43]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.13.27:449][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024845s)
+[2021.11.29-06.13.27:451][ 43]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.13.27:451][ 43]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2021.11.29-06.13.27:451][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.026720s)
+[2021.11.29-06.13.27:452][ 43]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.13.27:452][ 43]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.13.27:469][ 43]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.13.27
+[2021.11.29-06.13.27:469][ 43]LogWorld: Bringing up level for play took: 0.016931
+[2021.11.29-06.13.27:475][ 43]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.27:475][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.27:475][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.13.27:476][ 43]LogLoad: Took 0.156941 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.13.28:874][122]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.13.28:874][122]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.13.34:589][459]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.34:589][459]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.34:589][459]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.13.40:596][813]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.40:612][814]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.13.40:612][814]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.13.45:616][114]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.13.45:616][114]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.13.45:616][114]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.13.45:617][114]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.13.45:620][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.13.45:689][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.13.45:694][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.11.29-06.13.45:696][114]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.13.45:719][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022238s)
+[2021.11.29-06.13.45:720][114]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.13.45:721][114]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2021.11.29-06.13.45:721][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.024150s)
+[2021.11.29-06.13.45:721][114]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.13.45:721][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.13.45:741][114]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.13.45
+[2021.11.29-06.13.45:742][114]LogWorld: Bringing up level for play took: 0.020666
+[2021.11.29-06.13.45:746][114]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.45:746][114]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.45:746][114]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.13.45:746][114]LogLoad: Took 0.131094 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.13.46:883][180]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.13.46:883][180]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.13.51:967][482]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.13.51:967][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.13.51:967][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.14.04:664][236]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.14.04:684][237]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.14.04:684][237]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.14.09:685][535]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.14.09:685][535]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.14.09:685][535]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.14.09:687][535]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.09:690][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.09:765][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.14.09:770][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.11.29-06.14.09:772][535]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.14.09:797][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025298s)
+[2021.11.29-06.14.09:798][535]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.14.09:798][535]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2021.11.29-06.14.09:798][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.026865s)
+[2021.11.29-06.14.09:798][535]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.14.09:798][535]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.14.09:817][535]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.14.09
+[2021.11.29-06.14.09:818][535]LogWorld: Bringing up level for play took: 0.018872
+[2021.11.29-06.14.09:828][535]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.14.09:828][535]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.14.09:828][535]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.14.09:828][535]LogLoad: Took 0.142757 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.14.10:947][598]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.14.10:947][598]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.14.16:793][948]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.14.16:793][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.14.16:793][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.14.23:551][339]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.14.28:569][639]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.14.28:569][639]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.14.28:569][639]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.14.28:571][639]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.28:573][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.28:644][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.14.28:648][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.11.29-06.14.28:650][639]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.14.28:676][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025898s)
+[2021.11.29-06.14.28:677][639]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.14.28:677][639]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2021.11.29-06.14.28:677][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.027216s)
+[2021.11.29-06.14.28:677][639]LogAudio: Display: Audio Device (ID: 17) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.14.28:678][639]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.14.28:698][639]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.14.28
+[2021.11.29-06.14.28:699][639]LogWorld: Bringing up level for play took: 0.020691
+[2021.11.29-06.14.28:702][639]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.14.28:703][639]LogLoad: Took 0.133774 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.14.31:610][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.14.31:622][805]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Sue877D36C34B4B802714A76A8686190134.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.14.31:627][805]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.14.31:627][805]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.14.32:521][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/Tasks/Sue" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset" SILENT=true
+[2021.11.29-06.14.32:529][856]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Sue9458073E462164CC0783EA96270BEE15.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Tasks/Sue.uasset'
+[2021.11.29-06.14.32:534][856]AssetCheck: New page: Asset Save: Sue
+[2021.11.29-06.14.32:534][856]LogContentValidation: Display: Validating Blueprint /Game/DialogueSystem/Tasks/Sue.Sue
+[2021.11.29-06.14.33:554][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.14.33:554][912]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.14.33:554][912]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.29-06.14.33:557][912]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.14.33:559][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.33:570][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.14.33:588][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.14.33:663][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.14.33:664][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.14.33:665][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.14.33:674][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.11.29-06.14.33:729][913]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2021.11.29-06.17.42:979][869]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/WomanDialogue5888A51D42FAA6DB421133B0167866FB.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Woman/WomanDialogue.uasset'
+[2021.11.29-06.17.42:996][869]AssetCheck: New page: Asset Save: WomanDialogue
+[2021.11.29-06.17.42:996][869]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Woman/WomanDialogue.WomanDialogue
+[2021.11.29-06.17.54:258][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.11.29-06.17.54:363][489]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_MapAB6BBC524394FDD912EF25A0C068FC79.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.29-06.17.54:385][489]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.29-06.17.54:385][489]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.29-06.18.21:597][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.29-06.18.21:705][ 14]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map88591EEE464B19EB3F6D84B908350342.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.29-06.18.21:727][ 14]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.29-06.18.21:728][ 14]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.29-06.18.30:555][394]LogEditorViewport: Clicking on Actor (LMB): MainCar_C (MainCar)
+[2021.11.29-06.18.31:166][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.29-06.18.31:276][421]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_MapE56BCBAC42C8BC8D987CA5B096EBB832.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.11.29-06.18.31:295][421]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.11.29-06.18.31:295][421]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.11.29-06.18.37:748][772]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.29-06.18.37:760][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.18.37:761][772]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 2:18:37 PM)
+[2021.11.29-06.18.37:761][772]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.18.37:787][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025753s)
+[2021.11.29-06.18.37:788][772]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.18.37:788][772]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2021.11.29-06.18.37:789][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.027623s)
+[2021.11.29-06.18.37:838][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.11.29-06.18.37:839][772]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.18.37:839][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.18.37:839][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.18.37:840][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.29-06.18.37:840][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.29-06.18.37:840][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.29-06.18.37:840][772]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.18.37:843][772]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.18.37:843][772]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.29-06.18.37:873][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.29-06.18.37:873][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.29-06.18.37:875][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.29-06.18.37:875][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.29-06.18.37:875][772]LogInit: FAudioDevice initialized.
+[2021.11.29-06.18.37:875][772]LogAudio: Display: Audio Device (ID: 18) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.18.37:894][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.18.37:894][772]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.18.37:910][772]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.18.37
+[2021.11.29-06.18.37:911][772]LogWorld: Bringing up level for play took: 0.016155
+[2021.11.29-06.18.37:912][772]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.11.29-06.18.37:916][772]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.18.37:916][772]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.18.37:916][772]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.29-06.18.37:918][772]PIE: Server logged in
+[2021.11.29-06.18.37:922][772]PIE: Play in editor total start time 0.166 seconds.
+[2021.11.29-06.18.39:368][840]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.18.39:368][840]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.18.44:513][144]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.18.44:514][144]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.18.44:514][144]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.18.48:689][391]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.18.48:704][392]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.18.48:704][392]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.18.53:719][686]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.18.53:720][686]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.18.53:720][686]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.18.53:722][686]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.18.53:723][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.18.53:810][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.18.53:816][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.11.29-06.18.53:817][686]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.18.53:842][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024782s)
+[2021.11.29-06.18.53:843][686]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.18.53:843][686]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2021.11.29-06.18.53:843][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.026094s)
+[2021.11.29-06.18.53:843][686]LogAudio: Display: Audio Device (ID: 18) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.18.53:843][686]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.18.53:861][686]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.18.53
+[2021.11.29-06.18.53:862][686]LogWorld: Bringing up level for play took: 0.018557
+[2021.11.29-06.18.53:866][686]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.18.53:866][686]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.18.53:866][686]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.18.53:866][686]LogLoad: Took 0.146547 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.18.56:653][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.18.56:653][843]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.18.56:653][843]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.29-06.18.56:655][843]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.18.56:657][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.18.56:663][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.18.56:678][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.18.56:742][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.18.56:742][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.18.56:743][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.18.56:752][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.29-06.18.56:801][844]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.11.29-06.19.40:013][257]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.29-06.19.41:534][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.19.41:561][337]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen8E0389D34CF7E51DE1D594A04E61E9C3.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.19.41:573][337]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.19.41:574][337]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.19.41:876][354]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.19.41:967][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.29-06.19.44:923][507]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.29-06.19.44:937][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.19.44:938][507]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 2:19:44 PM)
+[2021.11.29-06.19.44:938][507]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.19.44:965][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027087s)
+[2021.11.29-06.19.44:966][507]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.19.44:966][507]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2021.11.29-06.19.44:966][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.028438s)
+[2021.11.29-06.19.45:015][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.29-06.19.45:017][507]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.19.45:017][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.19.45:017][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.19.45:018][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.29-06.19.45:018][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.29-06.19.45:018][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.29-06.19.45:018][507]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.19.45:021][507]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.19.45:021][507]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.19.45:029][507]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.29-06.19.45:029][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.29-06.19.45:029][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.29-06.19.45:030][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.29-06.19.45:030][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.29-06.19.45:030][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.29-06.19.45:030][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.29-06.19.45:031][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.29-06.19.45:031][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.29-06.19.45:031][507]LogInit: FAudioDevice initialized.
+[2021.11.29-06.19.45:031][507]LogAudio: Display: Audio Device (ID: 19) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.19.45:052][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.19.45:053][507]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.19.45:063][507]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.19.45
+[2021.11.29-06.19.45:064][507]LogWorld: Bringing up level for play took: 0.011054
+[2021.11.29-06.19.45:064][507]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2021.11.29-06.19.45:068][507]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.19.45:068][507]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.19.45:068][507]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.29-06.19.45:071][507]PIE: Server logged in
+[2021.11.29-06.19.45:073][507]PIE: Play in editor total start time 0.143 seconds.
+[2021.11.29-06.19.45:877][540]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.19.45:877][540]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.19.50:778][791]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.19.50:778][791]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.19.50:778][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.19.56:946][125]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.19.56:967][126]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.19.56:967][126]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.20.01:964][412]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.20.01:964][412]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.20.01:964][412]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.20.01:966][412]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.20.01:968][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.20.02:061][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.20.02:066][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.11.29-06.20.02:068][412]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.20.02:091][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022783s)
+[2021.11.29-06.20.02:092][412]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.20.02:092][412]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2021.11.29-06.20.02:092][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.023941s)
+[2021.11.29-06.20.02:092][412]LogAudio: Display: Audio Device (ID: 19) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.20.02:092][412]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.20.02:109][412]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.20.02
+[2021.11.29-06.20.02:110][412]LogWorld: Bringing up level for play took: 0.016778
+[2021.11.29-06.20.02:112][412]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.20.02:112][412]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.20.02:113][412]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.20.02:113][412]LogLoad: Took 0.148908 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.21.21:724][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.21.21:724][919]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.21.21:724][919]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.29-06.21.21:727][919]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.21.21:732][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.21.21:747][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.21.21:759][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.21.21:849][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.21.21:851][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.21.21:866][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.29-06.21.21:912][920]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.11.29-06.21.44:775][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.21.44:797][161]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen63F0E1514EA7A260AC6B1899BD60168F.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.21.44:811][161]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.21.44:811][161]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.21.45:203][183]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.21.45:293][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.11.29-06.21.46:208][227]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.21.46:264][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.11.29-06.21.47:465][289]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.21.47:518][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.11.29-06.21.50:920][466]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.21.50:976][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.11.29-06.21.51:431][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.21.51:452][485]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreenE7A1AED440D6FFAAA14441A5FEA1E936.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.21.51:465][485]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.21.51:465][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.22.53:114][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.22.53:148][933]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreenB0E345ED42D2376085A241B46BCC9FB3.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.22.53:163][933]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.22.53:163][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.22.53:567][956]BlueprintLog: New page: Compile EndScreen
+[2021.11.29-06.22.53:662][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.29-06.22.57:612][167]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.29-06.22.57:626][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.29-06.22.57:626][167]PIE: New page: PIE session: CarScene_BlockOut7_Map (Nov 28, 2021, 2:22:57 PM)
+[2021.11.29-06.22.57:626][167]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.22.57:664][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037867s)
+[2021.11.29-06.22.57:665][167]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.22.57:665][167]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2021.11.29-06.22.57:666][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.039121s)
+[2021.11.29-06.22.57:713][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.29-06.22.57:715][167]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.29-06.22.57:715][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.29-06.22.57:715][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.29-06.22.57:716][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.29-06.22.57:716][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.29-06.22.57:716][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.29-06.22.57:716][167]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.29-06.22.57:721][167]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.29-06.22.57:721][167]LogAudioMixer: Display: 1: FrontRight
+[2021.11.29-06.22.57:732][167]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.11.29-06.22.57:733][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.29-06.22.57:733][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.29-06.22.57:733][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.29-06.22.57:733][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.29-06.22.57:733][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.29-06.22.57:733][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.29-06.22.57:735][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.29-06.22.57:735][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.29-06.22.57:735][167]LogInit: FAudioDevice initialized.
+[2021.11.29-06.22.57:735][167]LogAudio: Display: Audio Device (ID: 20) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.22.57:756][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.22.57:756][167]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.22.57:767][167]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.22.57
+[2021.11.29-06.22.57:767][167]LogWorld: Bringing up level for play took: 0.010798
+[2021.11.29-06.22.57:767][167]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.11.29-06.22.57:771][167]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.22.57:771][167]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.22.57:771][167]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.11.29-06.22.57:773][167]PIE: Server logged in
+[2021.11.29-06.22.57:775][167]PIE: Play in editor total start time 0.154 seconds.
+[2021.11.29-06.22.58:798][214]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.22.58:798][214]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.23.04:404][539]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.23.04:404][539]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.23.04:404][539]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.23.13:048][ 43]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.23.13:064][ 44]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.11.29-06.23.13:064][ 44]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.11.29-06.23.18:075][341]LogNet: Browse: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.23.18:075][341]LogLoad: LoadMap: /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map
+[2021.11.29-06.23.18:075][341]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.23.18:078][341]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.23.18:080][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.23.18:155][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.29-06.23.18:160][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.11.29-06.23.18:162][341]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.23.18:185][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022426s)
+[2021.11.29-06.23.18:186][341]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.11.29-06.23.18:186][341]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.11.29-06.23.18:186][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.023930s)
+[2021.11.29-06.23.18:186][341]LogAudio: Display: Audio Device (ID: 20) registered with world 'CarScene_BlockOut7_Map'.
+[2021.11.29-06.23.18:186][341]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.29-06.23.18:207][341]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.11.28-22.23.18
+[2021.11.29-06.23.18:208][341]LogWorld: Bringing up level for play took: 0.021146
+[2021.11.29-06.23.18:212][341]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.11.29-06.23.18:212][341]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.11.29-06.23.18:212][341]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.11.29-06.23.18:212][341]LogLoad: Took 0.136725 seconds to LoadMap(/Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map)
+[2021.11.29-06.23.22:143][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.29-06.23.22:143][556]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.11.29-06.23.22:143][556]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.29-06.23.22:146][556]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.11.29-06.23.22:148][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.23.22:158][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.29-06.23.22:173][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.29-06.23.22:262][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.23.22:264][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.29-06.23.22:280][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.29-06.23.22:329][557]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.11.29-06.23.22:785][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.23.22:816][580]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen3751D7FA4C13AFA9D6BB929956717A24.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.23.22:831][580]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.23.22:831][580]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.23.23:415][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.23.23:447][610]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen7890B16A42CF67BCC6DDE9822139968D.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.23.23:458][610]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.23.23:458][610]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
+[2021.11.29-06.23.45:704][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DialogueSystem/EndScreen" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset" SILENT=true
+[2021.11.29-06.23.45:727][882]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/EndScreen482A76904D3E4EED8483CCB7FB88BCE4.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/EndScreen.uasset'
+[2021.11.29-06.23.45:738][882]AssetCheck: New page: Asset Save: EndScreen
+[2021.11.29-06.23.45:738][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/DialogueSystem/EndScreen.EndScreen
