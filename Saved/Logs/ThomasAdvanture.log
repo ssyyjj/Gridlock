@@ -1600,3 +1600,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.05-21.57.41:449][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/PhoneInteraction.PhoneInteraction
 [2021.12.05-21.57.41:740][264]BlueprintLog: New page: Compile PhoneInteraction
 [2021.12.05-21.57.41:842][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.12.05-21.58.12:795][609]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/PhoneInteraction22ABBC9648162C0388957385A1D3DE87.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/PhoneInteraction.uasset'
+[2021.12.05-21.58.12:815][609]AssetCheck: New page: Asset Save: PhoneInteraction
+[2021.12.05-21.58.12:815][609]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/PhoneInteraction.PhoneInteraction
+[2021.12.05-21.58.13:325][630]BlueprintLog: New page: Compile PhoneInteraction
+[2021.12.05-21.58.13:455][630]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2021.12.05-21.58.15:460][711]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.05-21.58.15:480][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.05-21.58.15:480][711]PIE: New page: PIE session: CarScene_BlockOut7_Map (Dec 5, 2021, 5:58:15 AM)
+[2021.12.05-21.58.15:481][711]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.12.05-21.58.15:511][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029898s)
+[2021.12.05-21.58.15:511][711]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.12.05-21.58.15:512][711]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2021.12.05-21.58.15:512][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.031452s)
+[2021.12.05-21.58.15:562][711]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.12.05-21.58.15:564][711]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.05-21.58.15:564][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.05-21.58.15:564][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.05-21.58.15:565][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.05-21.58.15:565][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.05-21.58.15:565][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.05-21.58.15:565][711]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.05-21.58.15:568][711]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.05-21.58.15:568][711]LogAudioMixer: Display: 1: FrontRight
+[2021.12.05-21.58.15:576][711]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.12.05-21.58.15:576][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.05-21.58.15:576][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.05-21.58.15:576][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.05-21.58.15:576][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.05-21.58.15:576][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.05-21.58.15:577][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.05-21.58.15:578][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.05-21.58.15:578][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.05-21.58.15:578][711]LogInit: FAudioDevice initialized.
+[2021.12.05-21.58.15:578][711]LogAudio: Display: Audio Device (ID: 9) registered with world 'CarScene_BlockOut7_Map'.
+[2021.12.05-21.58.15:600][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.05-21.58.15:600][711]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.05-21.58.15:613][711]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.12.05-13.58.15
+[2021.12.05-21.58.15:614][711]LogWorld: Bringing up level for play took: 0.012711
+[2021.12.05-21.58.15:614][711]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.12.05-21.58.15:621][711]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.05-21.58.15:621][711]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.05-21.58.15:621][711]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.12.05-21.58.15:623][711]PIE: Server logged in
+[2021.12.05-21.58.15:625][711]PIE: Play in editor total start time 0.149 seconds.
+[2021.12.05-21.58.16:412][735]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.12.05-21.58.16:412][735]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.12.05-21.58.22:480][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.05-21.58.22:480][ 47]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.12.05-21.58.22:481][ 47]LogSlate: Window 'ThomasAdvanture Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.05-21.58.22:490][ 47]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.05-21.58.22:494][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.05-21.58.22:515][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.05-21.58.22:532][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.05-21.58.22:602][ 47]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.05-21.58.22:602][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.05-21.58.22:603][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.05-21.58.22:616][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2021.12.05-21.58.22:673][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.12.05-21.58.23:691][ 89]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/PhoneInteraction4160DDF64F5C607112ED9FB2DF554455.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/PhoneInteraction.uasset'
+[2021.12.05-21.58.23:707][ 89]AssetCheck: New page: Asset Save: PhoneInteraction
+[2021.12.05-21.58.23:707][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/IntProps/PhoneInteraction.PhoneInteraction
