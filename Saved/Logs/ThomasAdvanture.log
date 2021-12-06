@@ -4305,3 +4305,104 @@ Please see Output Log for details.
 [2021.12.06-00.36.38:653][598]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/WomanDialogueC52C64D6489A9C8007CDB89B036B0101.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/DialogueSystem/Woman/WomanDialogue.uasset'
 [2021.12.06-00.36.38:683][598]AssetCheck: New page: Asset Save: WomanDialogue
 [2021.12.06-00.36.38:683][598]LogContentValidation: Display: Validating BehaviorTree /Game/DialogueSystem/Woman/WomanDialogue.WomanDialogue
+[2021.12.06-00.37.37:507][805]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2021.12.06-00.37.37:830][805]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/CarScene_BlockOut7_Map2FA112144E29EFBC14F60AADAE0A006C.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/MapsForGame/Garrett/CarScene_BlockOut7_Map.umap'
+[2021.12.06-00.37.38:237][805]AssetCheck: New page: Asset Save: CarScene_BlockOut7_Map
+[2021.12.06-00.37.38:237][805]LogContentValidation: Display: Validating World /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map
+[2021.12.06-00.38.01:989][678]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\garre\Downloads\Hey_you_left.wav)
+[2021.12.06-00.38.02:032][678]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\garre\Downloads\Hey_you_right.wav)
+[2021.12.06-00.38.13:769][ 34]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Horn8603A75E4E140C118DB045A3D11D44B3.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.uasset'
+[2021.12.06-00.38.13:810][ 34]AssetCheck: New page: Asset Save: Horn
+[2021.12.06-00.38.13:810][ 34]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.Horn
+[2021.12.06-00.38.14:000][ 42]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.16:446][ 42]LogUObjectHash: Compacting FUObjectHashTables data took  28.57ms
+[2021.12.06-00.38.18:437][ 64]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/HornC1BBF4934936607786FD79BCB12FFFDE.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.uasset'
+[2021.12.06-00.38.18:695][ 64]AssetCheck: New page: Asset Save: Horn
+[2021.12.06-00.38.18:696][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.Horn
+[2021.12.06-00.38.19:722][111]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.06-00.38.19:838][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-00.38.19:851][111]PIE: New page: PIE session: CarScene_BlockOut7_Map (Dec 5, 2021, 8:38:19 AM)
+[2021.12.06-00.38.19:867][111]LogPlayLevel: Creating play world package: /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.12.06-00.38.20:461][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.590353s)
+[2021.12.06-00.38.20:561][111]LogAIModule: Creating AISystem for world CarScene_BlockOut7_Map
+[2021.12.06-00.38.20:625][111]LogPlayLevel: PIE: World Init took: (0.158332s)
+[2021.12.06-00.38.20:628][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapsForGame/Garrett/CarScene_BlockOut7_Map.CarScene_BlockOut7_Map to /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map (0.760991s)
+[2021.12.06-00.38.21:030][111]LogUObjectHash: Compacting FUObjectHashTables data took  10.78ms
+[2021.12.06-00.38.21:049][111]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.12.06-00.38.21:052][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-00.38.21:052][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-00.38.21:053][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-00.38.21:053][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-00.38.21:053][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-00.38.21:053][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-00.38.21:053][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-00.38.21:053][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-00.38.21:061][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.06-00.38.21:061][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.06-00.38.21:061][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.06-00.38.21:061][111]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-00.38.21:082][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-00.38.21:082][111]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-00.38.21:111][111]LogAudioMixer: Display: Using Audio Device Headphones (MDR-XB950N1 Stereo)
+[2021.12.06-00.38.21:128][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-00.38.21:128][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-00.38.21:129][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-00.38.21:135][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-00.38.21:136][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-00.38.21:136][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-00.38.21:469][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-00.38.21:469][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-00.38.21:469][111]LogInit: FAudioDevice initialized.
+[2021.12.06-00.38.21:470][111]LogAudio: Display: Audio Device (ID: 28) registered with world 'CarScene_BlockOut7_Map'.
+[2021.12.06-00.38.21:679][111]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.06-00.38.21:912][111]LogWorld: Bringing World /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map.CarScene_BlockOut7_Map up for play (max tick rate 60) at 2021.12.05-16.38.21
+[2021.12.06-00.38.21:925][111]LogWorld: Bringing up level for play took: 0.188986
+[2021.12.06-00.38.21:938][111]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2021.12.06-00.38.22:020][111]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.12.06-00.38.22:023][111]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.12.06-00.38.22:023][111]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.12.06-00.38.22:023][111]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.12.06-00.38.22:035][111]PIE: Server logged in
+[2021.12.06-00.38.22:043][111]PIE: Play in editor total start time 2.271 seconds.
+[2021.12.06-00.38.23:518][134]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.12.06-00.38.23:518][134]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.12.06-00.38.25:635][234]LogBlueprintUserMessages: [Horn_C_0] One
+[2021.12.06-00.38.25:646][234]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Hey_you_left...
+[2021.12.06-00.38.25:649][234]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Hey_you_left.Hey_you_left will be modified from 40 to 40.
+[2021.12.06-00.38.25:688][234]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 169864 while cooking SoundWave /Game/Audio/Hey_you_left.Hey_you_left.
+[2021.12.06-00.38.27:638][327]LogBlueprintUserMessages: [Horn_C_0] One
+[2021.12.06-00.38.30:119][446]LogBlueprintUserMessages: [Horn_C_0] One
+[2021.12.06-00.38.31:596][513]LogBlueprintUserMessages: [Horn_C_0] Two
+[2021.12.06-00.38.31:602][513]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Hey_you_right...
+[2021.12.06-00.38.31:602][513]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Hey_you_right.Hey_you_right will be modified from 40 to 40.
+[2021.12.06-00.38.31:653][513]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 446464 while cooking SoundWave /Game/Audio/Hey_you_right.Hey_you_right.
+[2021.12.06-00.38.35:562][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-00.38.35:563][694]LogWorld: BeginTearingDown for /Game/MapsForGame/Garrett/UEDPIE_0_CarScene_BlockOut7_Map
+[2021.12.06-00.38.35:578][694]LogWorld: UWorld::CleanupWorld for CarScene_BlockOut7_Map, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.38.35:591][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.38.35:651][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-00.38.35:661][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.38.35:757][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-00.38.35:761][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-00.38.35:783][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-00.38.35:804][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-00.38.35:856][694]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.12.06-00.38.35:937][695]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2021.12.06-00.38.51:511][432]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Horn3103ACE548B4F45591822AB0E5F11928.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.uasset'
+[2021.12.06-00.38.51:766][432]AssetCheck: New page: Asset Save: Horn
+[2021.12.06-00.38.51:768][432]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.Horn
+[2021.12.06-00.38.52:103][448]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.52:401][448]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.12.06-00.38.52:519][448]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.52:642][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.12.06-00.38.52:651][448]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.52:774][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.12.06-00.38.52:780][448]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.52:901][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.12.06-00.38.53:686][480]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.53:870][480]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.12.06-00.38.53:886][480]BlueprintLog: New page: Compile Horn
+[2021.12.06-00.38.54:014][480]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.12.06-00.38.54:758][509]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Horn7107398645F648191DC268B3A0914165.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.uasset'
+[2021.12.06-00.38.54:781][509]AssetCheck: New page: Asset Save: Horn
+[2021.12.06-00.38.54:781][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.Horn
