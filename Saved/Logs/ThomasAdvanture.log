@@ -4406,3 +4406,96 @@ Please see Output Log for details.
 [2021.12.06-00.38.54:758][509]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Horn7107398645F648191DC268B3A0914165.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.uasset'
 [2021.12.06-00.38.54:781][509]AssetCheck: New page: Asset Save: Horn
 [2021.12.06-00.38.54:781][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/AssetsvilleCars/Meshes/Vehicles/MainCarComponets/Horn.Horn
+[2021.12.06-00.40.42:957][909]LogSlate: Window 'ManDialogue' being destroyed
+[2021.12.06-00.40.42:975][909]LogSlate: Window 'ManDialogue' being destroyed
+[2021.12.06-00.40.43:068][909]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.43:081][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.44:197][909]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.44:197][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.45:418][909]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.45:419][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.45:444][909]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.45:445][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.46:140][909]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.46:140][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.46:899][909]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.46:900][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.47:127][909]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.47:127][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.48:593][909]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.48:594][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.49:162][909]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.49:162][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.49:597][909]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.06-00.40.49:597][909]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.49:597][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.50:274][909]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.50:275][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.50:295][909]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.50:295][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.50:930][909]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.50:930][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.50:952][909]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.50:952][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.51:480][909]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.51:480][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.51:509][909]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.51:510][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.51:889][909]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.51:889][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.52:612][909]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.52:613][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.53:261][909]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.53:261][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.53:286][909]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.53:286][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.54:172][909]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.54:172][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.54:780][909]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.54:780][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.40.54:803][909]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.40.54:803][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-00.41.07:192][453]LogUObjectHash: Compacting FUObjectHashTables data took  43.88ms
+[2021.12.06-00.41.09:704][453]LogSlate: Window 'Save Content' being destroyed
+[2021.12.06-00.41.09:884][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Hey_you_left" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/Audio/Hey_you_left.uasset" SILENT=true
+[2021.12.06-00.41.09:921][453]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Hey_you_left5893498B483B9E268E2E28AD7BDE36AF.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/Audio/Hey_you_left.uasset'
+[2021.12.06-00.41.09:935][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Hey_you_right" FILE="../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/Audio/Hey_you_right.uasset" SILENT=true
+[2021.12.06-00.41.09:945][453]LogSavePackage: Moving '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Saved/Hey_you_right36190C5E419B8DA241D7BDAADD4B8565.tmp' to '../../../../../../Users/garre/OneDrive/Documents/GitHub/Gridlock/Content/Audio/Hey_you_right.uasset'
+[2021.12.06-00.41.10:036][453]LogSlate: Window 'ThomasAdvanture - Unreal Editor' being destroyed
+[2021.12.06-00.41.11:366][453]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.06-00.41.11:367][453]LogContentValidation: Display: Validating SoundWave /Game/Audio/Hey_you_right.Hey_you_right
+[2021.12.06-00.41.11:368][453]LogContentValidation: Display: Validating SoundWave /Game/Audio/Hey_you_left.Hey_you_left
+[2021.12.06-00.41.11:375][454]Cmd: QUIT_EDITOR
+[2021.12.06-00.41.11:375][454]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.06-00.41.11:399][454]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.06-00.41.11:738][454]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.06-00.41.11:739][454]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.06-00.41.11:739][454]LogAudio: Display: Audio Device unregistered from world 'CarScene_BlockOut7_Map'.
+[2021.12.06-00.41.11:745][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-00.41.11:784][454]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-00.41.11:869][454]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.06-00.41.11:872][454]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.06-00.41.11:912][454]LogExit: Preparing to exit.
+[2021.12.06-00.41.12:649][454]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2021.12.06-00.41.16:028][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:029][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:029][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:032][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:032][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:032][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:033][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:034][454]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.41.16:051][454]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.41.16:055][454]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.06-00.41.16:059][454]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.41.16:064][454]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-00.41.16:399][454]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.06-00.41.16:653][454]LogExit: Editor shut down
+[2021.12.06-00.41.16:670][454]LogExit: Transaction tracking system shut down
